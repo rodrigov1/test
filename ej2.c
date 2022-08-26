@@ -23,7 +23,7 @@ int main(){
    FILE *file;
    file= fopen("/proc/version", "r");
    int line=0;
-
+//queweahermanito
 
    if (file == NULL){
     printf("Error opening the file");
